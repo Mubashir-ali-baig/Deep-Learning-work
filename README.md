@@ -1,2 +1,2 @@
-This repository contains some of projects and codes for deep learning applied on various datasets
+This repository contains some of my projects and codes for deep learning methods (Single and Multiclass classification) applied on various datasets.
 
